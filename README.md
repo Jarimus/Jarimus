@@ -7,5 +7,7 @@
 * 💪 One day I will delve more into front-end development. (React? Svelte? Something else?)
 
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/35f6c5c0-b9ab-469e-ba32-9224dcf6b3ff/thumbnail" >
+  <a href='https://www.boot.dev/u/jarimus'>
+    <img src="https://api.boot.dev/v1/users/public/35f6c5c0-b9ab-469e-ba32-9224dcf6b3ff/thumbnail" >
+  </a>
 </p>
